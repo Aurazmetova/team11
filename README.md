@@ -37,3 +37,4 @@ Internet has already entered our lives,Fast changes like those brought about by 
 @Fazilat21
 @Aurazmetova
 @purazmetova02
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-readmes
