@@ -8,11 +8,11 @@ These numbers are huge – there are 7.7 billion people in the world, with at le
 Social media has changed the world. The rapid and vast adoption of these technologies is changing how we find partners, how we access information from the news, and how we organize to demand political change.
 # Body part
 So, we have collected ten data visualization with different charts
-# 1Global internet user penetration 2014-2021
+ 1Global internet user penetration 2014-2021
 At the start of 2021, there will be nearly 4.66 billion internet users worldwide. This is over 59.5% of the worldwide population (DataReportal, 2021). There will also be 27.1 billion networked devices by 2021—a significant jump from 17.1 billion in 2016 (Cisco, 2021).
 
 As seen in the chart below, 46.8% of the global population accessed the internet in 2017 (eMarketer). This number is expected to grow to 53.7% in 2021.
-# 2 Growth of internet usage between 2000-2020 years worldwide
+2 Growth of internet usage between 2000-2020 years worldwide
 India has been delivering the largest absolute growth, with a reported quarterly increase of 32 million internet subscribers (5%), and annual growth of 143 million subscribers (29%) (The Economic Times, 2019).
 
 India’s neighboring countries have also been reporting promising growth, although Southern Asia still has the largest unconnected population, with over one billion people across the region still waiting to come online.
