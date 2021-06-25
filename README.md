@@ -33,6 +33,9 @@ It’s not all cats, porn, and memes. Here are the top activities the Internet i
  10 Usage of internet in Uzbekistan in 2021
 # Conclusion
 Internet has already entered our lives,Fast changes like those brought about by social media always spark fears about possible negative effects. Specifically in the context of social media, a key question is whether these new communication technologies are having a negative impact on our mental health – this is an important question and we cover the evidence at Python project here. 
+# Sources:
+https://financesonline.com/number-of-internet-users/
+https://ourworldindata.org/rise-of-social-media
 # Creators:
 @Fazilat21
 @Aurazmetova
